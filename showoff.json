@@ -1,0 +1,9 @@
+{
+  "name": "itx0025 f & l",
+  "description": "functions and logical gates",
+  "sections": [
+    {"section":"intro"},
+    {"section":"aspects"},
+    {"section":"topics"}
+  ]
+}
